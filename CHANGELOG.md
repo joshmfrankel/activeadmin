@@ -18,7 +18,7 @@
 * Removed `jquery-ui-rails` as a dependency. The specific jQuery UI assets used
   are now within the vendor directory. This will be replaced by alternatives and
   dropped entirely in a major release. Please remove any direct inclusions
-  of `//= require jquery-ui`. [#5052] by [@javierjulio][]
+  of `//= require jquery-ui`. [#5052](https://github.com/activeadmin/activeadmin/pull/5052) by [@javierjulio][]
 
 ### Deprecations
 
